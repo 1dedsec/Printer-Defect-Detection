@@ -1,0 +1,36 @@
+# Trial number:      137
+# HOTA, MOTA, IDF1:  [55.567]
+ocsort:
+  asso_func: ciou
+#  conf_thres: 0.212620708221085
+  delta_t: 1
+  det_thresh: 0
+  inertia: 0.1041737016672115
+  iou_thresh: 0.12136877277096445
+  max_age: 50
+  min_hits: 3
+  use_byte: false
+
+#### best
+## Trial number:      137
+## HOTA, MOTA, IDF1:  [55.567]
+#ocsort:
+#  asso_func: ct_dist
+##  conf_thres: 0.212620708221085
+#  delta_t: 1
+#  det_thresh: 0
+#  inertia: 0.1941737016672115
+#  iou_thresh: 0.12136877277096445
+#  max_age: 30
+#  min_hits: 5
+#  use_byte: false
+#ocsort:
+#  asso_func: ciou
+##  conf_thres: 0.212620708221085
+#  delta_t: 1
+#  det_thresh: 0
+#  inertia: 0.1941737016672115
+#  iou_thresh: 0.12136877277096445
+#  max_age: 50
+#  min_hits: 3
+#  use_byte: false

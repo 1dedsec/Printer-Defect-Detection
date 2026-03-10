@@ -1,0 +1,16 @@
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Bluetooth.Demo.exe.config
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Bluetooth.Demo.exe
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Bluetooth.Demo.pdb
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\BLECode.dll
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Bluetooth.dll
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Models.dll
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Bluetooth.pdb
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\bin\Debug\CHNSpec.Models.pdb
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.csprojAssemblyReference.cache
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.Form1.resources
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.Properties.Resources.resources
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.csproj.GenerateResource.cache
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.csproj.CoreCompileInputs.cache
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.csproj.CopyComplete
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.exe
+E:\Project\DeviceConnection\CHNSpec.Bluetooth.Demo\obj\Debug\CHNSpec.Bluetooth.Demo.pdb

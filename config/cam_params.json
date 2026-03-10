@@ -1,0 +1,25 @@
+{
+    "Control": {
+        "ColorResolution": "1600*1200",
+        "FrameRate": 10,
+        "IRGmmGain": 64,
+        "WorkMode": "ActiveMode"
+    },
+    "ExposureTime": {
+        "Color_ExposureMode": "Auto",
+        "Color_ExposureTime": 5000,
+        "HDR_Mode": true,
+        "ToF_ExposureMode": "Manual",
+        "ToF_ExposureTime": 1000
+    },
+    "Filter": {
+        "ConfidenceFilter": true,
+        "ConfidenceFilter_Threshold": 15,
+        "Fillhole": true,
+        "FlyingPixelFilter": true,
+        "FlyingPixelFilter_Threshold": 15,
+        "SpatialFilter": false,
+        "TimeFilter": true,
+        "TimeFilter_Threshold": 3
+    }
+}
