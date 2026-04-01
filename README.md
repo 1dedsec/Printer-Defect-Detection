@@ -1,13 +1,11 @@
 ## yolov5_pyqt5
 
-这是一个使用pyqt5搭建YOLOv5目标检测可视化程序。
-
-项目采用了极简设计，以便读者可以基于此界面进行二次开发。
+这是一个使用pyqt5+haiKangPython SDK + DS77Lite SDK搭建YOLOv5工业缺陷检测和间隙断差测量可视化程序。
 
 目前支持：
-- 图像检测
-- 视频检测
-- 摄像头检测
+- 工业缺陷检测（划痕，手印，脏污，油污）
+- 工业缺陷物理面积测算（结合TOF相机数据，保持误差在0.2mm2）
+- 结构光相机+点云对其匹配+KD树最近搜索实现的打印机外立面间隙断差高精度测算，误差保持在毫米级别
 
 项目界面：
 
@@ -36,19 +34,9 @@ pip install -r requriements.txt
 4.运行main.py即可看到显示界面
 
 
-# 打包版本
-应某些读者的需求，打了个包，有需要的可自行下载(仅支持windows)：[百度云盘](https://pan.baidu.com/s/1egD-K_lDKQn-RdnhIk_iXg?pwd=8888)
-
-
 ## Contact
 
 本项目不会再添加新功能，如果你发现bug，欢迎在issue中提出，我会及时修复
 
-如果你需要其它定制功能，可以发送“需求+工期+报价”等详细信息至我的邮箱zstar1003@163.com
  
- 
-## Star History
 
-如果此项目对你有所帮助，请给项目点个star
-
-![Stargazers over time](https://starchart.cc/zstar1003/yolov5_pyqt5.svg)
